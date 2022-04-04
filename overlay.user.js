@@ -9,7 +9,7 @@
 // ==/UserScript==
 const width = 2000;
 const height = 2000;
-const image = "https://cdn.discordapp.com/attachments/237345537328807936/960411561980223488/ucf_place_overlay.png";
+const image = "https://cdn.discordapp.com/attachments/237345537328807936/960430392190566400/ucf_place_overlay.png";
 if (window.top !== window.self) {
 	window.addEventListener(
 		"load",
